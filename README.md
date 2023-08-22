@@ -1,16 +1,13 @@
-Certainly! Here's the information formatted for GitHub Markup language:
-
-```markdown
-## Project Title: AHT Reduction Initiative - Telecommunications Company
+**Project Title:** AHT Reduction Initiative - Telecommunications Company
 
 **Project Duration:** 4 months
 
 **Role:** Yellow Belt Project Manager
 
-### Overview
+**Overview:**
 Collaborating closely with the Telecommunications Company's Black Belt Project Manager, I contributed to a Six Sigma project aimed at optimizing operational efficiency. Our primary focus was on reducing the Average Handling Time (AHT) for the customer service operations. Working within the cross-functional team and applying Six Sigma methodologies, we aimed to streamline processes, enhance customer satisfaction, and potentially realize cost savings of up to $2 million annually.
 
-### My Responsibilities
+**My Responsibilities:**
 
 **1. Project Initiation (Month 1):**
 - Assisted the Black Belt Project Manager in understanding the unique challenges of the telecommunications industry and aligning project objectives with the company's goals.
@@ -48,11 +45,8 @@ Collaborating closely with the Telecommunications Company's Black Belt Project M
 - Participated in a project retrospective to gather feedback and insights, considering the telecommunications industry's particular challenges and opportunities.
 - Contributed to documenting the comprehensive project process, including the telecommunications-specific lessons learned and accomplishments.
 
-### Results
+**Results:**
 Collaborating as a Yellow Belt Project Manager alongside the Black Belt Project Manager, we achieved a successful reduction in AHT from 8 minutes to 6 minutes within the telecommunications environment. This initiative not only led to substantial potential cost savings of up to $2 million annually but also enhanced customer satisfaction by delivering more efficient and responsive customer service tailored to telecommunications needs.
 
-### My Role's Impact
+**My Role's Impact:**
 In my role as a Yellow Belt Project Manager, I was a vital part of the collaborative effort alongside the Black Belt and the cross-functional team. Through my contributions, I helped adapt Six Sigma methodologies to the unique challenges of the telecommunications industry. My responsibilities encompassed data analysis, solution development support, implementation oversight, and results tracking, all while considering the nuances of telecommunications customer interactions. This experience underscores my ability to adapt and contribute to projects within specific industry contexts while driving improvements that align with strategic objectives.
-```
-
-You can copy and paste this markdown code into your GitHub repository's README or other relevant documentation.
